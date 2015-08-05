@@ -5,5 +5,5 @@ Currently raw skeleton files from Cyanogenmod's mkvendor.sh with updates from ca
 
 
 
-# android_device_elephone_p8000 or
-# android_device_alps_k05ts_a ?
+android_device_elephone_p8000 or
+android_device_alps_k05ts_a ?
