@@ -8,7 +8,7 @@ PRODUCT_RELEASE_NAME := p8000
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/elephone/p8000/device_p8000_a.mk)
+$(call inherit-product, device/elephone/p8000/device_p8000.mk)
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
